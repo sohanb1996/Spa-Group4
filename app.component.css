@@ -1,0 +1,62 @@
+.mybody{
+    background-color:white;
+    padding: 0px;
+}
+
+.mynav{
+    background-color: #7FCF78;
+
+}
+
+.main-container{
+    background-color:#CAFCC5;
+    padding-top:40px;
+}
+
+li{
+	font-size: 15px;
+	color: rgba(21, 7, 73, 0.959);
+}
+
+li.myuser{
+	position: absolute;
+	right: 50px;
+	font-size: 15px;
+	font-weight: bold;
+}
+    
+.services{
+    background-color:white;
+}
+
+.dropdown-toggle{
+    background-color: #7FCF78;
+    width: 850px;
+    text-align:left;
+    -webkit-text-fill-color: black;
+}
+
+.rightside{
+   background-color:white;
+    border-radius: 5px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left: 0px; 
+    border-bottom:3px solid rgb(236, 226, 226);
+    padding-bottom: 110px; 
+
+}
+
+.leftsidediv1{
+    background-color:white;
+    margin-right: 15px;
+    margin-left:5px;
+    border-radius: 5px;
+    margin-top:200px;
+    
+    padding-top:15px;
+    padding-left:1px;
+    padding-right:1px;
+
+}
