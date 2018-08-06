@@ -1,0 +1,50 @@
+
+#page-container {
+  min-height: 100%;
+  position: relative;
+}
+
+
+
+#page-body {
+  padding: 0px;
+  
+}
+
+.user-login-form {
+  margin: auto;
+  position: absolute;
+  top: 56px;
+  bottom: 60px;
+  left: 0;
+  right: 0;
+  max-width: 500px;
+  height: 350px;
+  border: 0.75px solid #808080;
+  padding: 10px 100px 20px 100px;
+  background-color: white;
+}
+
+  .user-login-form img {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 150px;
+  }
+
+  .user-login-form .btn {
+    color: #808080;
+    background-color: #e3f9e3;
+    border-color: #e3f9e3;
+    display: block;
+    margin: auto;
+  }
+
+  .user-login-form .form-control {
+    border: 0;
+    border-bottom: 1px solid black;
+    border-radius: 0;
+    text-align: center;
+  }
+
+
